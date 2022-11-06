@@ -1,2 +1,2 @@
 # Explanation
-Use this script file to making your Terminal Bash promt look as in Parrot OS in HTB VM
+Use Prompt.sh script file to make your Terminal Bash promt look like in HTB VM Parrot OS 
